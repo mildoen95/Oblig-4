@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3284cf55-a850-4aef-b44f-1d07c99f2fd9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Oblig 4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oppgave 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oppgave 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000024071947" />
+      <entry key="MS500" value="1.0189084773988808" />
+      <entry key="S2" value="1.5504710599855938" />
+      <entry key="S5" value="3.2571559851572744" />
+      <entry key="S10" value="5.447488721823113" />
+      <entry key="S30" value="8.518908194028608" />
+      <entry key="S60" value="9.654849928731572" />
+      <entry key="M2" value="10.29877820906755" />
+      <entry key="M5" value="10.712724983764446" />
+      <entry key="M10" value="11.087702174477355" />
+      <entry key="M15" value="13.176479494698386" />
+      <entry key="M30" value="39.456101375585426" />
+      <entry key="H1" value="129.27478144669982" />
+      <entry key="H2" value="264.663744713797" />
+      <entry key="H4" value="387.5359611340892" />
+      <entry key="D1" value="537.9417725747031" />
+      <entry key="W1" value="569.5420305265737" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="1.12471978084E-312" />
+      <entry key="S10" value="1.0605282180704822E-156" />
+      <entry key="S30" value="1.0329587487593747E-52" />
+      <entry key="S60" value="1.2778331689046986E-26" />
+      <entry key="M2" value="2.3326713622031356E-13" />
+      <entry key="M5" value="3.193253296068277E-5" />
+      <entry key="M10" value="0.019816265221894752" />
+      <entry key="M15" value="0.18040212726558494" />
+      <entry key="M30" value="1.753722726013308" />
+      <entry key="H1" value="5.673896637356305" />
+      <entry key="H2" value="10.332495539329692" />
+      <entry key="H4" value="13.993236613326374" />
+      <entry key="D1" value="18.052339126528786" />
+      <entry key="W1" value="18.86154563823169" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.986232706818556" />
+      <entry key="MS500" value="1.0160091226967503" />
+      <entry key="S2" value="1.5488557155735558" />
+      <entry key="S5" value="3.2554182420287785" />
+      <entry key="S10" value="5.445914120481343" />
+      <entry key="S30" value="8.518048934247728" />
+      <entry key="S60" value="9.654357959433396" />
+      <entry key="M2" value="10.298514505998925" />
+      <entry key="M5" value="10.712646040565293" />
+      <entry key="M10" value="11.107225885194842" />
+      <entry key="M15" value="13.35541615540372" />
+      <entry key="M30" value="41.20268825633176" />
+      <entry key="H1" value="134.9366098248462" />
+      <entry key="H2" value="274.9847873018059" />
+      <entry key="H4" value="401.52122577266607" />
+      <entry key="D1" value="555.9923504538759" />
+      <entry key="W1" value="588.403311943191" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3KllKf70rnFDH4wDYZ4c2CT8OGA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Oppgave 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Oppgave 2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-821f704e66d9-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.9437.214" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3284cf55-a850-4aef-b44f-1d07c99f2fd9" name="Changes" comment="" />
+      <created>1792139972245</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1792139972245</updated>
+      <workItem from="1792139973254" duration="4963000" />
+      <workItem from="1792411260187" duration="4569000" />
+      <workItem from="1792534647627" duration="591000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Oblig_4$Oppgave_1.coverage" NAME="Oppgave 1 Coverage Results" MODIFIED="1792143359313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Oblig_4$Oppgave_2.coverage" NAME="Oppgave 2 Coverage Results" MODIFIED="1792413814727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
